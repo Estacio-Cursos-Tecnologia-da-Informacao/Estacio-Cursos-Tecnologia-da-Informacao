@@ -8,7 +8,6 @@ Bem-vindo à página oficial do GitHub para os cursos de Tecnologia da Informaç
 - **👀 Interesses:** Somos apaixonados por tudo relacionado à tecnologia e inovação. Nossas áreas de foco incluem programação, cibersegurança, ciência de dados, inteligência artificial e muito mais.
 - **🌱 Aprendizado Atual:** Nossos alunos estão se aprofundando nas tecnologias e metodologias mais recentes, aprimorando seus conhecimentos em linguagens de programação, desenvolvimento de software, segurança de rede e análise de dados.
 - **💞️ Colaboração:** Estamos procurando colaborar em projetos que ultrapassem os limites da tecnologia. Seja um novo aplicativo, uma solução de segurança ou um projeto baseado em dados, incentivamos o trabalho em equipe e a inovação.
-- **📫 Contato:** Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para nos contatar em diretoria.ensino.ti@estacio.br
 - **😄 Pronomes:** Respeitamos todos os pronomes e buscamos criar um ambiente inclusivo para todos.
 - **⚡ Curiosidade:** Você sabia? A primeira programadora de computadores foi Ada Lovelace, que escreveu um algoritmo para uma máquina de computação no século XIX, muito antes de os computadores existirem!
 

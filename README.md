@@ -1,8 +1,8 @@
-# Universidade Estácio - Cursos de Tecnologia da Informação
+# Cursos de Tecnologia da Informação
 
-👋 Olá, somos @Estacio-Cursos-Tecnologia-da-Informacao
+👋 Olá, somos @Cursos-Tecnologia-da-Informacao
 
-Bem-vindo à página oficial do GitHub para os cursos de Tecnologia da Informação (TI) da Universidade Estácio. Esta plataforma será utilizada para compartilhar atividades, tarefas e projetos relacionados ao nosso currículo de TI. Aqui, os alunos podem colaborar, aprender e desenvolver suas habilidades em várias disciplinas relacionadas à tecnologia.
+Bem-vindo à página oficial do GitHub para os cursos de Tecnologia da Informação (TI). Esta plataforma será utilizada para compartilhar atividades, tarefas e projetos relacionados ao nosso currículo de TI. Aqui, os alunos podem colaborar, aprender e desenvolver suas habilidades em várias disciplinas relacionadas à tecnologia.
 
 ## Sobre Nós
 - **👀 Interesses:** Somos apaixonados por tudo relacionado à tecnologia e inovação. Nossas áreas de foco incluem programação, cibersegurança, ciência de dados, inteligência artificial e muito mais.
@@ -18,5 +18,5 @@ Bem-vindo à página oficial do GitHub para os cursos de Tecnologia da Informaç
 
 Estamos ansiosos para ver os incríveis projetos e soluções que nossos alunos desenvolverão. Vamos codificar, colaborar e inovar juntos!
 
-Bem-vindo à Universidade Estácio - Cursos de Tecnologia da Informação!
+Bem-vindo aos Cursos de Tecnologia da Informação!
 
